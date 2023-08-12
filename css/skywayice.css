@@ -1,0 +1,12 @@
+﻿#text-cycle-container {
+    background: black;
+    opacity: .7;
+    padding: 1em;
+}
+
+
+
+.navbar.navbar-transparent .navbar-brand img
+{
+    top:.7rem;
+}
