@@ -10,3 +10,18 @@
 {
     top:.7rem;
 }
+
+.testimonial-full {
+    border: black 1px solid;
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+.testimonial-full .img-fluid {
+    max-width: 160px;
+}
+
+.testimonial-full .lead {
+    font-weight:bold;
+}
+
